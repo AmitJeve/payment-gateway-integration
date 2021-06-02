@@ -17,9 +17,9 @@ h3{
   font-size: 4rem;
 }
 p{
-  color: #ff414d;
+  color: white;
   font-size: 2rem;
-  
+
 }
 
 header
@@ -99,6 +99,8 @@ a{
 footer{
   text-align: center;
   color: black;
+}
 
+.btn1{
 
 }
